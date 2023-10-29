@@ -65,7 +65,7 @@ class _CounterdownState extends State<Counterdown> {
 //  هنا نكتب الاب بار والبودي والزر الاعائم
 appBar: AppBar(
   backgroundColor: Color.fromARGB(255, 16, 27, 36),
-  title: Text("Counterdown",style: TextStyle(color: Colors.white),),
+  title: Text("Pomodoro App",style: TextStyle(color: Colors.white),),
   centerTitle: true,
 ),
       backgroundColor: Color.fromARGB(255, 33, 40, 43),
